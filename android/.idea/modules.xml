@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CIL.iml" filepath="$PROJECT_DIR$/.idea/modules/CIL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CIL.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CIL.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/357522782/CIL.react-native-admob.iml" filepath="$PROJECT_DIR$/.idea/modules/357522782/CIL.react-native-admob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1789447885/CIL.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1789447885/CIL.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/875851680/CIL.react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/875851680/CIL.react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1782907476/CIL.react-native-community_progress-bar-android.iml" filepath="$PROJECT_DIR$/.idea/modules/-1782907476/CIL.react-native-community_progress-bar-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-26810290/CIL.react-native-community_progress-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-26810290/CIL.react-native-community_progress-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2094102481/CIL.react-native-firebase_analytics.iml" filepath="$PROJECT_DIR$/.idea/modules/-2094102481/CIL.react-native-firebase_analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1056048778/CIL.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/1056048778/CIL.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1291348350/CIL.react-native-firebase_crashlytics.iml" filepath="$PROJECT_DIR$/.idea/modules/-1291348350/CIL.react-native-firebase_crashlytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-945245721/CIL.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-945245721/CIL.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1101575/CIL.react-native-iap.iml" filepath="$PROJECT_DIR$/.idea/modules/-1101575/CIL.react-native-iap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-325294599/CIL.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-325294599/CIL.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/610275731/CIL.react-native-pdf.iml" filepath="$PROJECT_DIR$/.idea/modules/610275731/CIL.react-native-pdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1724913621/CIL.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1724913621/CIL.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1491669872/CIL.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1491669872/CIL.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-584728408/CIL.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-584728408/CIL.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1425067533/CIL.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-1425067533/CIL.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1535341307/CIL.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-1535341307/CIL.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1818097841/CIL.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1818097841/CIL.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-652965608/CIL.rn-fetch-blob.iml" filepath="$PROJECT_DIR$/.idea/modules/-652965608/CIL.rn-fetch-blob.iml" />
+    </modules>
+  </component>
+</project>

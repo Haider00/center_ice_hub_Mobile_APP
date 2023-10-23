@@ -1,0 +1,10 @@
+com/cil/MainActivity.java
+ com.center.ice.hub.MainActivity
+ com.center.ice.hub.MainActivity$1
+com/center/ice/hub/BuildConfig.java
+ com.center.ice.hub.BuildConfig
+com/cil/MainApplication.java
+ com.center.ice.hub.MainApplication
+ com.center.ice.hub.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

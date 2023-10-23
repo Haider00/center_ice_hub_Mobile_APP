@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "626428153921",
+    "firebase_url": "https://center-ice-hub.firebaseio.com",
+    "project_id": "center-ice-hub",
+    "storage_bucket": "center-ice-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626428153921:android:a13100435b086c055876c0",
+        "android_client_info": {
+          "package_name": "com.center.ice.hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626428153921-o1afq8tc44l3m85sik8k2c9ro3jafj06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.center.ice.hub",
+            "certificate_hash": "647c5b29a7cee8da05764b3c12f89bdd8a09a3cb"
+          }
+        },
+        {
+          "client_id": "626428153921-4h0qj0g87tk6otvl1mpkle3o0p8qtijk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfaMijpGgoRoOJSnXN2CXChLfGlujRz2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626428153921-4h0qj0g87tk6otvl1mpkle3o0p8qtijk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "626428153921-jneol00thb43alhu9nc8bevp056c2o1c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cih"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

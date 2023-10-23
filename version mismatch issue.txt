@@ -1,0 +1,10 @@
+https://github.com/facebook/react-native/issues/23978
+
+1= reset cache of both android and npm and kill all node.js files
+2= delete @node_modules
+3= update npm, react native version
+4= ru this command 
+"react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res/"
+
+5= android studio delete res folder images
+6= make build again
